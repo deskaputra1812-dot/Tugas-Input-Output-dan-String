@@ -1,0 +1,21 @@
+nama_lengkap = input("Masukkan Nama Lengkap: ")
+nama_panggilan = input("Masukkan Nama Panggilan: ")
+nim = int(input("Masukkan NIM: "))
+jurusan = "Teknik Informatika"
+tanggal_lahir = int(input("Masukkan Tanggal Lahir: "))
+bulan_lahir = input("Masukkan Bulan Lahir: ")
+tahun_lahir = int(input("Masukkan Tahun Lahir: "))
+tempat_lahir = input("Masukkan Tempat Lahir: ")
+universitas = "Universitas Nusa Putra"
+hobi = input("Masukkan Hobi: ")
+
+print("Nama Lengkap: ", nama_lengkap)
+print("Nama Panggilan: ", nama_panggilan)
+print("NIM: ", nim)
+print("Jurusan: ", jurusan)
+print("Tanggal Lahir: ", tanggal_lahir)
+print("Bulan Lahir: ", bulan_lahir)
+print("Tahun Lahir: ", tahun_lahir)
+print("Tempat Lahir: ", tempat_lahir)
+print("Universitas: ", universitas)
+print("Hobi: ", hobi)
